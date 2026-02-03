@@ -23,13 +23,13 @@ I combine **medical rigor** with **advanced engineering skills** to build logica
 ### 🚀 Featured Projects (代表的なプロジェクト)
 
 #### 🀄️ Mahjong AI Agent (麻雀AI・画像認識)
-**[Repository: mahjong-image-recognition-analysis]**
+**[https://github.com/ajastar/mahjong-image-recognition-analysis]**
 - **Overview:** YOLOv8を用いたリアルタイムの牌認識と、強化学習による打牌推奨エンジン。
 - **Tech:** Python, YOLOv8, OpenCV, Reinforcement Learning.
 - **Details:** Real-time tile recognition & optimal discard recommendation system.
 
 #### 🎰 Pachislot Statistical Analyzer (パチスロ期待値分析)
-**[Repository: pachi-tokushima]**
+**[https://github.com/ajastar/Oracle-5D-Slot-Infer-CUDA]**
 - **Overview:** 徳島県内のホールデータを統計分析し、機種ごとの期待値(EV)を算出するツール。
 - **Tech:** Python, Pandas, Data Scraping.
 - **Details:** Data analysis tool for calculating expected values (EV) based on local machine data.
